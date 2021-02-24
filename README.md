@@ -1,3 +1,2 @@
 # hello-world
-just another repository
-using a new branch
+just another repository - using a new branch
